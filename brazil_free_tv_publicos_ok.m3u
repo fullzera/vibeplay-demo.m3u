@@ -19,3 +19,311 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Canais Públicos BR",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Abertos",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde SBT PI" tvg-logo="https://imgur.com/8catiCV.png" group-title="Abertos",TV Cidade Verde SBT PI
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="Abertos",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV" tvg-logo="https://imgur.com/ZLgQJeY.png" group-title="Abertos",Record TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Abertos",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Abertos",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Abertos",TV Brasil
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://listaiptvbrasil.com/logo/redevida.gif" group-title="Abertos",Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" group-title="Abertos",TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://listaiptvbrasil.com/logo/aparecidahd.png" group-title="Abertos",TV Aparecida
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Abertos",COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="Abertos",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="Abertos",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Abertos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="Abertos",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E01" tvg-logo="" group-title="Séries",The Land of the Lost S01E01 - Cha-Ka
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e01.cha-ka.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E02" tvg-logo="" group-title="Séries",The Land of the Lost S01E02 - The Sleestak God
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e02.the.sleestak.god.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E03" tvg-logo="" group-title="Séries",The Land of the Lost S01E03 - Dopey
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e03.dopey.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E04" tvg-logo="" group-title="Séries",The Land of the Lost S01E04 - Downstream
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e04.downstream.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E05" tvg-logo="" group-title="Séries",The Land of the Lost S01E05 - Tag Team
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e05.tag.team.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E06" tvg-logo="" group-title="Séries",The Land of the Lost S01E06 - The Stranger
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e06.the.stranger.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E07" tvg-logo="" group-title="Séries",The Land of the Lost S01E07 - Album
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e07.album.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E08" tvg-logo="" group-title="Séries",The Land of the Lost S01E08 - Skylons
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e08.skylons.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E09" tvg-logo="" group-title="Séries",The Land of the Lost S01E09 - The Hole
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e09.the.hole.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E10" tvg-logo="" group-title="Séries",The Land of the Lost S01E10 - The Paku Who Came to Dinner
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e10.the.paku.who.came.to.dinner.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E11" tvg-logo="" group-title="Séries",The Land of the Lost S01E11 - The Search
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e11.the.search.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E12" tvg-logo="" group-title="Séries",The Land of the Lost S01E12 - The Possession
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e12.the.possession.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E13" tvg-logo="" group-title="Séries",The Land of the Lost S01E13 - Circle
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e13.circle.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E14" tvg-logo="" group-title="Séries",The Land of the Lost S01E14 - The Chopper
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e14.the.chopper.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E15" tvg-logo="" group-title="Séries",The Land of the Lost S01E15 - The Vacation
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e15.the.vacation.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E16" tvg-logo="" group-title="Séries",The Land of the Lost S01E16 - The Spider
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e16.the.spider.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="The Land of the Lost S01E17" tvg-logo="" group-title="Séries",The Land of the Lost S01E17 - The Lifeclock
+https://archive.org/download/LOTLPortDub/Land%20of%20the%20Lost%20-%20Season%201/land.of.the.lost.1974.s01e17.the.lifeclock.1080p.amzn.web-dl.dd2.0.h.264-playnow.mkv
+
+#EXTINF:-1 tvg-name="Death Note S01E01" tvg-logo="" group-title="Séries",Death Note S01E01 - Rebirth
+#EXTGRP:SUB
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E02" tvg-logo="" group-title="Séries",Death Note S01E02 - Confrontation
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E03" tvg-logo="" group-title="Séries",Death Note S01E03 - Dealings
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E04" tvg-logo="" group-title="Séries",Death Note S01E04 - Pursuit
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E05" tvg-logo="" group-title="Séries",Death Note S01E05 - Tactics
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E06" tvg-logo="" group-title="Séries",Death Note S01E06 - Unraveling
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E07" tvg-logo="" group-title="Séries",Death Note S01E07 - Overcast
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E08" tvg-logo="" group-title="Séries",Death Note S01E08 - Glare
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E09" tvg-logo="" group-title="Séries",Death Note S01E09 - Encounter
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E10" tvg-logo="" group-title="Séries",Death Note S01E10 - Doubt
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E11" tvg-logo="" group-title="Séries",Death Note S01E11 - Assault
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E11%20-%20Assault%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E11%20-%20Assault.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E12" tvg-logo="" group-title="Séries",Death Note S01E12 - Love
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E12%20-%20Love%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E12%20-%20Love.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E13" tvg-logo="" group-title="Séries",Death Note S01E13 - Confession
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E13%20-%20Confession%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E13%20-%20Confession.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E14" tvg-logo="" group-title="Séries",Death Note S01E14 - Friend
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E14%20-%20Friend%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E14%20-%20Friend.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E15" tvg-logo="" group-title="Séries",Death Note S01E15 - Wager
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E15%20-%20Wager%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E15%20-%20Wager.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E16" tvg-logo="" group-title="Séries",Death Note S01E16 - Decision
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E16%20-%20Decision%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E16%20-%20Decision.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E17" tvg-logo="" group-title="Séries",Death Note S01E17 - Execution
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E17%20-%20Execution%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E17%20-%20Execution.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E18" tvg-logo="" group-title="Séries",Death Note S01E18 - Ally
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E18%20-%20Ally%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E18%20-%20Ally.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E19" tvg-logo="" group-title="Séries",Death Note S01E19 - Matsuda
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E19%20-%20Matsuda%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E19%20-%20Matsuda.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E20" tvg-logo="" group-title="Séries",Death Note S01E20 - Makeshift
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E20%20-%20Makeshift%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E20%20-%20Makeshift.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E21" tvg-logo="" group-title="Séries",Death Note S01E21 - Performance
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E21%20-%20Performance%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E21%20-%20Performance.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E22" tvg-logo="" group-title="Séries",Death Note S01E22 - Guidance
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E22%20-%20Guidance%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E22%20-%20Guidance.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E23" tvg-logo="" group-title="Séries",Death Note S01E23 - Frenzy
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E23%20-%20Frenzy%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E23%20-%20Frenzy.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E24" tvg-logo="" group-title="Séries",Death Note S01E24 - Revival
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E24%20-%20Revival%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E24%20-%20Revival.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E25" tvg-logo="" group-title="Séries",Death Note S01E25 - Silence
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E25%20-%20Silence%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E25%20-%20Silence.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E26" tvg-logo="" group-title="Séries",Death Note S01E26 - Renewal
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E26%20-%20Renewal%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E26%20-%20Renewal.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E27" tvg-logo="" group-title="Séries",Death Note S01E27 - Abduction
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E27%20-%20Abduction%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E27%20-%20Abduction.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E28" tvg-logo="" group-title="Séries",Death Note S01E28 - Impatience
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E28%20-%20Impatience%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E28%20-%20Impatience.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E29" tvg-logo="" group-title="Séries",Death Note S01E29 - Father
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E29%20-%20Father%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E29%20-%20Father.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E30" tvg-logo="" group-title="Séries",Death Note S01E30 - Justice
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E30%20-%20Justice%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E30%20-%20Justice.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E31" tvg-logo="" group-title="Séries",Death Note S01E31 - Transfer
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E31%20-%20Transfer%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E31%20-%20Transfer.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E32" tvg-logo="" group-title="Séries",Death Note S01E32 - Selection
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E32%20-%20Selection%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E32%20-%20Selection.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E33" tvg-logo="" group-title="Séries",Death Note S01E33 - Scorn
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E33%20-%20Scorn%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E33%20-%20Scorn.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E34" tvg-logo="" group-title="Séries",Death Note S01E34 - Vigilance
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E34%20-%20Vigilance%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E34%20-%20Vigilance.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E35" tvg-logo="" group-title="Séries",Death Note S01E35 - Malice
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E35%20-%20Malice%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E35%20-%20Malice.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E36" tvg-logo="" group-title="Séries",Death Note S01E36 - 1.28
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E36%20-%201.28%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E36%20-%201.28.mp4
+
+#EXTINF:-1 tvg-name="Death Note S01E37" tvg-logo="" group-title="Séries",Death Note S01E37 - New World
+#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E37%20-%20New%20World%20-%20PT-BR.srt
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E37%20-%20New%20World.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/OrphansOfTheStorm.png" group-title="🎭 Drama",Orphans of the Storm (1921)
+https://archive.org/download/OrphansoftheStorm/Orphans%20of%20the%20Storm.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheJoylessStreet.png" group-title="🎭 Drama",The Joyless Street (1926)
+https://archive.org/download/TheJoylessStreet1926/The%20Joyless%20Street%20-%20G.W.%20Pabst%20-%201926.avi
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/EasyVirtue.png" group-title="🎭 Drama",Easy Virtue (1928)
+https://archive.org/download/EasyVirtue1928/Easy%20Virtue%20(1928).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ThePaintedHills.png" group-title="🎭 Drama",The Painted Hills (1951)
+#EXTVLCOPT:sub-file=https://archive.org/download/painted-hills-1951_202107/Painted%20Hills%20(1951)_subtitles.srt
+https://archive.org/download/painted-hills-1951_202107/Painted%20Hills%20(1951).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheFourHorsemen.png" group-title="⚡ Ação / Suspense",The Four Horsemen of the Apocalypse (1921)
+https://archive.org/download/The_Four_Horsemen_of_the_Apocalypse/Four.Horsemen.of.the.Apocalypse.1921.Kino.Version.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheThiefOfBagdad.png" group-title="⚡ Ação / Suspense",The Thief of Bagdad (1924)
+https://archive.org/download/ThiefOfBagdad1924/Thief_Of_Bagdad_1924.avi
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/RobinHood.png" group-title="⚡ Ação / Suspense",Robin Hood (1922)
+https://archive.org/download/FairbanksRobinHood1922/Fairbanks_Robin_Hood_1922.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheMarkOfZorro.png" group-title="⚡ Ação / Suspense",The Mark of Zorro (1920)
+https://archive.org/download/TheMarkOfZorro_201807/The%20Mark%20of%20Zorro%20(1920).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/LesVampires.png" group-title="⚡ Ação / Suspense",Les Vampires (1915) - Episódio 1
+https://archive.org/download/LesVampires1915DirectedByLouisFeuillade/LesVampires1915DirectedByLouisFeuillade.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Nosferatu.png" group-title="😱 Terror",Nosferatu (1922) - Versão Completa
+#EXTVLCOPT:sub-file=https://archive.org/download/Nosferatu_most_complete_version_93_mins./nosferatu.srt
+https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_most_complete_version_93_mins..mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Nosferatu.png" group-title="😱 Terror",Nosferatu (1922) - Versão iPod
+https://archive.org/download/nosferatu_ipod/nosferatu.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Faust.png" group-title="😱 Terror",Faust (1926)
+#EXTVLCOPT:sub-file=https://archive.org/download/Faust_1926/Faust%20(1926)%20-%20English%20subs.srt
+https://archive.org/download/Faust_1926/Faust%20(1926).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheGolem.png" group-title="😱 Terror",The Golem (1920)
+https://archive.org/download/TheGolem_893/The%20Golem%20(1920).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DrJekyllAndMrHyde.png" group-title="😱 Terror",Dr. Jekyll and Mr. Hyde (1920)
+https://archive.org/download/DrJekyllandMrHyde/Dr.%20Jekyll%20and%20Mr.%20Hyde%20(1920).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ThePhantomOfTheOpera.png" group-title="😱 Terror",The Phantom of the Opera (1925)
+https://archive.org/download/phantom_of_the_opera_1925/Phantom_of_the_Opera_1925.avi
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheBat.png" group-title="😱 Terror",The Bat (1926)
+https://archive.org/download/TheBat1926/The%20Bat%20(1926).mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Haxan.png" group-title="😱 Terror",Haxan (1922) - Legendado
+https://archive.org/download/Haxan_tinted_and_subtitled/Haxan_tinted_and_subtitled.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheGeneral.png" group-title="😂 Comédia",The General (1926)
+https://archive.org/download/The_General_Buster_Keaton/The_General_Buster_Keaton.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheCameraman.png" group-title="😂 Comédia",The Cameraman (1928)
+https://archive.org/download/busterkeatonthecameraman/Buster%20Keaton%20-%20The%20Cameraman.mp4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SafetyLast.png" group-title="😂 Comédia",Safety Last! (1923)
+https://archive.org/download/SafetyLast_201304/SafetyLast.mp4
