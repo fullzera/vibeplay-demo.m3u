@@ -67,23 +67,23 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E01" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E01 - Rebirth
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E01" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E01 - Rebirth
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E02" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E02 - Confrontation
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E02" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E02 - Confrontation
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E03" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E03 - Dealings
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E03" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E03 - Dealings
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E04" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E04 - Pursuit
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E04" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E04 - Pursuit
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E05" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E05 - Tactics
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E05" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E05 - Tactics
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics.mp4
 
@@ -91,86 +91,34 @@ https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E07" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E07 - Overcast
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E07" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E07 - Overcast
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E08" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E08 - Glare
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E08" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E08 - Glare
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E09" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E09 - Encounter
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E09" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E09 - Encounter
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E10" tvg-logo="https://editorajbc.com.br/wp-content/uploads/2007/06/capa_death_note_01_g.jpg" group-title="Séries",Death Note S01E10 - Doubt
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E10" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E10 - Doubt
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/OrphansOfTheStorm.png" group-title="🎭 Drama",Orphans of the Storm (1921)
-https://archive.org/download/OrphansoftheStorm/Orphans%20of%20the%20Storm.mp4
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheJoylessStreet.png" group-title="🎭 Drama",The Joyless Street (1926)
-https://archive.org/download/TheJoylessStreet1926/The%20Joyless%20Street%20-%20G.W.%20Pabst%20-%201926.avi
+#EXTINF:-1 tvg-id="" tvg-name="Conectado (2008)" tvg-logo="https://live.fanmingming.cn/tv/Connected2008.png" group-title="🎬 Ação",Conectado (2008) - Louis Koo
+https://archive.org/download/youtube-cGJXsNoJ9bI/youtube-cGJXsNoJ9bI.mp4
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/EasyVirtue.png" group-title="🎭 Drama",Easy Virtue (1928)
-https://archive.org/download/EasyVirtue1928/Easy%20Virtue%20(1928).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pânico no Metrô" tvg-logo="https://live.fanmingming.cn/tv/PanicoNoMetro.png" group-title="🎬 Ação",Pânico no Metrô - Filme de Ação
+https://archive.org/download/youtube-BLb-yyAm8YI/youtube-BLb-yyAm8YI.mp4
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ThePaintedHills.png" group-title="🎭 Drama",The Painted Hills (1951)
-#EXTVLCOPT:sub-file=https://archive.org/download/painted-hills-1951_202107/Painted%20Hills%20(1951)_subtitles.srt
-https://archive.org/download/painted-hills-1951_202107/Painted%20Hills%20(1951).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheFourHorsemen.png" group-title="⚡ Ação / Suspense",The Four Horsemen of the Apocalypse (1921)
-https://archive.org/download/The_Four_Horsemen_of_the_Apocalypse/Four.Horsemen.of.the.Apocalypse.1921.Kino.Version.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheThiefOfBagdad.png" group-title="⚡ Ação / Suspense",The Thief of Bagdad (1924)
-https://archive.org/download/ThiefOfBagdad1924/Thief_Of_Bagdad_1924.avi
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/RobinHood.png" group-title="⚡ Ação / Suspense",Robin Hood (1922)
-https://archive.org/download/FairbanksRobinHood1922/Fairbanks_Robin_Hood_1922.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheMarkOfZorro.png" group-title="⚡ Ação / Suspense",The Mark of Zorro (1920)
-https://archive.org/download/TheMarkOfZorro_201807/The%20Mark%20of%20Zorro%20(1920).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/LesVampires.png" group-title="⚡ Ação / Suspense",Les Vampires (1915) - Episódio 1
-https://archive.org/download/LesVampires1915DirectedByLouisFeuillade/LesVampires1915DirectedByLouisFeuillade.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Nosferatu.png" group-title="😱 Terror",Nosferatu (1922) - Versão Completa
-#EXTVLCOPT:sub-file=https://archive.org/download/Nosferatu_most_complete_version_93_mins./nosferatu.srt
-https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_most_complete_version_93_mins..mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Nosferatu.png" group-title="😱 Terror",Nosferatu (1922) - Versão iPod
-https://archive.org/download/nosferatu_ipod/nosferatu.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Faust.png" group-title="😱 Terror",Faust (1926)
-#EXTVLCOPT:sub-file=https://archive.org/download/Faust_1926/Faust%20(1926)%20-%20English%20subs.srt
-https://archive.org/download/Faust_1926/Faust%20(1926).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheGolem.png" group-title="😱 Terror",The Golem (1920)
-https://archive.org/download/TheGolem_893/The%20Golem%20(1920).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DrJekyllAndMrHyde.png" group-title="😱 Terror",Dr. Jekyll and Mr. Hyde (1920)
-https://archive.org/download/DrJekyllandMrHyde/Dr.%20Jekyll%20and%20Mr.%20Hyde%20(1920).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ThePhantomOfTheOpera.png" group-title="😱 Terror",The Phantom of the Opera (1925)
-https://archive.org/download/phantom_of_the_opera_1925/Phantom_of_the_Opera_1925.avi
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheBat.png" group-title="😱 Terror",The Bat (1926)
-https://archive.org/download/TheBat1926/The%20Bat%20(1926).mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/Haxan.png" group-title="😱 Terror",Haxan (1922) - Legendado
-https://archive.org/download/Haxan_tinted_and_subtitled/Haxan_tinted_and_subtitled.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheGeneral.png" group-title="😂 Comédia",The General (1926)
-https://archive.org/download/The_General_Buster_Keaton/The_General_Buster_Keaton.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TheCameraman.png" group-title="😂 Comédia",The Cameraman (1928)
-https://archive.org/download/busterkeatonthecameraman/Buster%20Keaton%20-%20The%20Cameraman.mp4
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SafetyLast.png" group-title="😂 Comédia",Safety Last! (1923)
-https://archive.org/download/SafetyLast_201304/SafetyLast.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder e a Lei" tvg-logo="https://live.fanmingming.cn/tv/OPodereALei.png" group-title="🎬 Ação",O Poder e a Lei - NetMovies
+https://archive.org/download/o-poder-e-a-lei-filme-completo-dublado-filme-de-acao-net-movies/o-poder-e-a-lei-filme-completo-dublado-filme-de-acao-net-movies.mp4
 
 
 
