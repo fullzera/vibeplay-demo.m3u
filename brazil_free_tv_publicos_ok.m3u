@@ -67,155 +67,47 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-name="Death Note S01E01" tvg-logo="" group-title="Séries",Death Note S01E01 - Rebirth
-#EXTGRP:SUB
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E01" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E01 - Rebirth
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E02" tvg-logo="" group-title="Séries",Death Note S01E02 - Confrontation
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E02" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E02 - Confrontation
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E02%20-%20Confrontation.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E03" tvg-logo="" group-title="Séries",Death Note S01E03 - Dealings
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E03" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E03 - Dealings
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E03%20-%20Dealings.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E04" tvg-logo="" group-title="Séries",Death Note S01E04 - Pursuit
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E04" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E04 - Pursuit
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E04%20-%20Pursuit.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E05" tvg-logo="" group-title="Séries",Death Note S01E05 - Tactics
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E05" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E05 - Tactics
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E05%20-%20Tactics.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E06" tvg-logo="" group-title="Séries",Death Note S01E06 - Unraveling
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E06" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E06 - Unraveling
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E06%20-%20Unraveling.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E07" tvg-logo="" group-title="Séries",Death Note S01E07 - Overcast
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E07" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E07 - Overcast
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E07%20-%20Overcast.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E08" tvg-logo="" group-title="Séries",Death Note S01E08 - Glare
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E08" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E08 - Glare
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E08%20-%20Glare.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E09" tvg-logo="" group-title="Séries",Death Note S01E09 - Encounter
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E09" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E09 - Encounter
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E09%20-%20Encounter.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E10" tvg-logo="" group-title="Séries",Death Note S01E10 - Doubt
+#EXTINF:-1 tvg-id="" tvg-name="Death Note S01E10" tvg-logo="https://live.fanmingming.cn/tv/DeathNote.png" group-title="Séries",Death Note S01E10 - Doubt
 #EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt%20-%20PT-BR.srt
 https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E10%20-%20Doubt.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E11" tvg-logo="" group-title="Séries",Death Note S01E11 - Assault
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E11%20-%20Assault%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E11%20-%20Assault.mp4
 
-#EXTINF:-1 tvg-name="Death Note S01E12" tvg-logo="" group-title="Séries",Death Note S01E12 - Love
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E12%20-%20Love%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E12%20-%20Love.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E13" tvg-logo="" group-title="Séries",Death Note S01E13 - Confession
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E13%20-%20Confession%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E13%20-%20Confession.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E14" tvg-logo="" group-title="Séries",Death Note S01E14 - Friend
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E14%20-%20Friend%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E14%20-%20Friend.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E15" tvg-logo="" group-title="Séries",Death Note S01E15 - Wager
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E15%20-%20Wager%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E15%20-%20Wager.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E16" tvg-logo="" group-title="Séries",Death Note S01E16 - Decision
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E16%20-%20Decision%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E16%20-%20Decision.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E17" tvg-logo="" group-title="Séries",Death Note S01E17 - Execution
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E17%20-%20Execution%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E17%20-%20Execution.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E18" tvg-logo="" group-title="Séries",Death Note S01E18 - Ally
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E18%20-%20Ally%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E18%20-%20Ally.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E19" tvg-logo="" group-title="Séries",Death Note S01E19 - Matsuda
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E19%20-%20Matsuda%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E19%20-%20Matsuda.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E20" tvg-logo="" group-title="Séries",Death Note S01E20 - Makeshift
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E20%20-%20Makeshift%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E20%20-%20Makeshift.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E21" tvg-logo="" group-title="Séries",Death Note S01E21 - Performance
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E21%20-%20Performance%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E21%20-%20Performance.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E22" tvg-logo="" group-title="Séries",Death Note S01E22 - Guidance
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E22%20-%20Guidance%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E22%20-%20Guidance.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E23" tvg-logo="" group-title="Séries",Death Note S01E23 - Frenzy
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E23%20-%20Frenzy%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E23%20-%20Frenzy.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E24" tvg-logo="" group-title="Séries",Death Note S01E24 - Revival
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E24%20-%20Revival%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E24%20-%20Revival.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E25" tvg-logo="" group-title="Séries",Death Note S01E25 - Silence
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E25%20-%20Silence%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E25%20-%20Silence.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E26" tvg-logo="" group-title="Séries",Death Note S01E26 - Renewal
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E26%20-%20Renewal%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E26%20-%20Renewal.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E27" tvg-logo="" group-title="Séries",Death Note S01E27 - Abduction
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E27%20-%20Abduction%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E27%20-%20Abduction.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E28" tvg-logo="" group-title="Séries",Death Note S01E28 - Impatience
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E28%20-%20Impatience%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E28%20-%20Impatience.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E29" tvg-logo="" group-title="Séries",Death Note S01E29 - Father
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E29%20-%20Father%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E29%20-%20Father.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E30" tvg-logo="" group-title="Séries",Death Note S01E30 - Justice
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E30%20-%20Justice%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E30%20-%20Justice.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E31" tvg-logo="" group-title="Séries",Death Note S01E31 - Transfer
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E31%20-%20Transfer%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E31%20-%20Transfer.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E32" tvg-logo="" group-title="Séries",Death Note S01E32 - Selection
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E32%20-%20Selection%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E32%20-%20Selection.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E33" tvg-logo="" group-title="Séries",Death Note S01E33 - Scorn
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E33%20-%20Scorn%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E33%20-%20Scorn.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E34" tvg-logo="" group-title="Séries",Death Note S01E34 - Vigilance
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E34%20-%20Vigilance%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E34%20-%20Vigilance.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E35" tvg-logo="" group-title="Séries",Death Note S01E35 - Malice
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E35%20-%20Malice%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E35%20-%20Malice.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E36" tvg-logo="" group-title="Séries",Death Note S01E36 - 1.28
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E36%20-%201.28%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E36%20-%201.28.mp4
-
-#EXTINF:-1 tvg-name="Death Note S01E37" tvg-logo="" group-title="Séries",Death Note S01E37 - New World
-#EXTVLCOPT:sub-file=https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E37%20-%20New%20World%20-%20PT-BR.srt
-https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E37%20-%20New%20World.mp4
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/OrphansOfTheStorm.png" group-title="🎭 Drama",Orphans of the Storm (1921)
 https://archive.org/download/OrphansoftheStorm/Orphans%20of%20the%20Storm.mp4
